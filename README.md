@@ -1,7 +1,5 @@
-<!-- PROFILE README -->
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&duration=4000&pause=500&color=36BCF7&center=true&vCenter=true&width=700&lines=👋+Hey+there%2C+I'm+AmirMahdi+Ghaffari;💻+Full+Stack+Developer;🚀+Frontend+%7C+Backend;🎓+CS50+Graduate;✨+Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&duration=4000&pause=500&color=36BCF7&center=true&vCenter=true&width=700&lines=👋+Hey+there%2C+I'm+AmirMahdi+Ghaffari;💻+Full+Stack+Developer;🚀+Frontend+%7C+Backend;🎓+CS50+Graduate;✨+Future+Vancouver+Resident" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -14,13 +12,13 @@
 - 🎓 Student + Lifelong Learner  
 - 🖥 CS50 Graduate (Harvard’s Intro to Computer Science)  
 - 🌐 Full Stack Developer (Frontend + Backend)  
+- ✈️ Preparing to **move to Vancouver, Canada 🇨🇦**  
 - ⚡ Passionate about **Web Development, AI, and Open Source**  
 - 🎯 Goal: Build products that make an impact  
 
 ---
 
 ### 🛠 Tech Stack  
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,flask,fastapi,mysql,postgresql,mongodb,git,github,docker&theme=dark" />
 </p>
@@ -32,7 +30,6 @@
 ---
 
 ### 📊 GitHub Stats  
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amirmahdi8998&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirmahdi8998&layout=compact&theme=radical&hide_border=true" height="180"/>
@@ -41,15 +38,44 @@
 ---
 
 ### 🔥 Contribution Streak  
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=amirmahdi8998&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
 </p>
 
 ---
 
-### ✨ Fun Facts  
+### 🏆 Achievements & Highlights  
+- ✅ Completed **Harvard CS50** with strong projects  
+- 🏅 Built multiple **Full Stack Apps** (Frontend + Backend)  
+- 📈 Constantly growing GitHub contributions  
+- 🌟 Open Source Collaborator  
 
+---
+
+### 🌐 Currently Exploring  
+- ⚡ Building scalable web apps with **Next.js & FastAPI**  
+- 🤖 Learning more about **AI integrations** in web projects  
+- ☁️ Playing around with **Cloud & Docker**  
+
+---
+
+### 💡 Projects Showcase  
+✨ Here are some of my featured works:  
+
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| **SpendWise** | Personal finance tracker that helps users manage income & expenses | Flask, SQLite, Bootstrap | [🔗 View](https://github.com/amirmahdi8998/spendwise) |
+| **Portfolio Website** | A modern portfolio to showcase my skills and projects | React, Tailwind | [🔗 View](#) |
+| **CS50 Final Project** | Full-stack app built during CS50 course | Python, Flask, SQL | [🔗 View](#) |
+| **Mini Games Hub** | Collection of browser-based games | HTML, CSS, JS | [🔗 View](#) |
+
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400"/>
+</p>
+
+---
+
+### ⚡ Fun Facts  
 - ⚡ I love coding late at night 🌙  
 - 🎧 Music + Coding = Perfect Combo  
 - ☕ Coffee keeps me alive  
@@ -58,7 +84,6 @@
 ---
 
 ### 📫 Connect With Me  
-
 <p align="center">
   <a href="https://github.com/amirmahdi8998"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
