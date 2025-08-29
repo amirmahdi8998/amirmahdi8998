@@ -46,8 +46,15 @@
 <h2 align="center">🔥 Contribution Streak</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=amirmahdi8998&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+  <a href="https://github.com/amirmahdi8998">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirmahdi8998&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&background=00000000" alt="GitHub Streak" />
+  </a>
 </p>
+
+<p align="center">
+  <em>Keep pushing forward, one commit at a time! 💪</em>
+</p>
+
 
 ---
 
