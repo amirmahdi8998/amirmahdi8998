@@ -91,6 +91,7 @@
 | **SpendWise** | Personal finance tracker that helps users manage income & expenses | Flask, SQLite, Bootstrap | [🔗 View](https://github.com/amirmahdi8998/spendwise) |
 | **Front-End Portfolio Website** | A modern portfolio to showcase my skills and projects | React, Tailwind | [🔗 View](https://github.com/amirmahdi8998/Front-End-Portfolio) |
 | **CS50 Final Project** | Full-stack app built during CS50 course | Python, Flask, SQL | [🔗 View](https://github.com/amirmahdi8998/spendwise) |
+| **Front-End Modern Todolist** | Full-stack app built during CS50 course | Python, Flask, SQL | [🔗 View](https://github.com/amirmahdi8998/Todolist) |
 
 </p>
 
