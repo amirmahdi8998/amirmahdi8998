@@ -47,13 +47,14 @@
 
 <p align="center">
   <a href="https://github.com/amirmahdi8998">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirmahdi8998&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&background=00000000" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirmahdi8998&theme=radical&hide_border=false" alt="GitHub Streak" />
   </a>
 </p>
 
 <p align="center">
   <em>Keep pushing forward, one commit at a time! 💪</em>
 </p>
+
 
 
 ---
